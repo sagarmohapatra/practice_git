@@ -5,6 +5,7 @@ function About() {
     <div>
         <div>i am from about</div>
         <div>i am from any part</div>
+        <div>dfghj</div>
     </div>
   )
 }

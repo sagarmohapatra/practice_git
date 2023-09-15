@@ -2,7 +2,10 @@ import React from 'react'
 
 function About() {
   return (
-    <div>I am from about</div>
+    <div>
+        <div>i am from about</div>
+        <div>i am from any part</div>
+    </div>
   )
 }
 
